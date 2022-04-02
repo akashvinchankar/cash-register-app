@@ -1,4 +1,4 @@
-# neogcamp-cash-register-app
+# cash-register-app
 
 > This app will help you give the remaining change from the bill and will show the number of notes to be given of different amounts.
 
